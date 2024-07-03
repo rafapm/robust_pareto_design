@@ -14,4 +14,5 @@ Before running the code, make sure you have the following libraries installed:
 You can install the HOLA library using pip:
 
 ```sh
-pip install hola
+pip install git+https://github.com/blackrock/HOLA.git
+
